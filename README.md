@@ -1,5 +1,11 @@
 # barebones-mongo-typeorm-example
 
+This project is meant to be an as-simple-as-possible project demonstrating the usage of typeorm for generating mongodb migrations based on the typeorm entities (in this case, the User entitity located in `src/entities/User.ts`).
+
+Sadly, nothing happens when I run the "generate" typeorm migration command so really this project is for debugging this issue.
+
+
+## Usage
 
 First, install typeorm globally
 ```
