@@ -1,0 +1,1 @@
+# barebones-mongo-typeorm-example
